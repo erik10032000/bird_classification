@@ -3,7 +3,7 @@ Dieses Repository enthält den vollständigen Code zur Masterarbeit.
 
 Unter train ist der Code, der zum Feintuning verwendet wurde.
 
-Unter validation ist der Code, der zur Validierung verwendet wurde.
+Unter validation ist der Code, der zur Validierung verwendet wurde und die erstellten CSV-Dateien.
 
 Unter inference findet sich der Code der Demo-Applikationen, die auch unter https://huggingface.co/erik1003 zu finden sind.
 
